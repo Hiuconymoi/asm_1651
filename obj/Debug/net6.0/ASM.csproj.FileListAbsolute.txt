@@ -1,0 +1,15 @@
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.csproj.AssemblyReference.cache
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.AssemblyInfoInputs.cache
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.AssemblyInfo.cs
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.csproj.CoreCompileInputs.cache
+C:\1651\ASM_1651\ASM\ASM\bin\Debug\net6.0\ASM.exe
+C:\1651\ASM_1651\ASM\ASM\bin\Debug\net6.0\ASM.deps.json
+C:\1651\ASM_1651\ASM\ASM\bin\Debug\net6.0\ASM.runtimeconfig.json
+C:\1651\ASM_1651\ASM\ASM\bin\Debug\net6.0\ASM.dll
+C:\1651\ASM_1651\ASM\ASM\bin\Debug\net6.0\ASM.pdb
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.dll
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\refint\ASM.dll
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.pdb
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ASM.genruntimeconfig.cache
+C:\1651\ASM_1651\ASM\ASM\obj\Debug\net6.0\ref\ASM.dll
